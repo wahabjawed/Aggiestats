@@ -1,0 +1,22 @@
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes.dex : \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\BuildConfig.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\HelloWorld.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\R$attr.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\R$drawable.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\R$string.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\R$xml.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\com\phonegap\helloworld\R.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$5.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\Users\Wahab\Aggiestats\platforms\android\bin\dexedLibs\classes-22bc66ad2882e012cd08ce1ac0b8d4ba.jar \
