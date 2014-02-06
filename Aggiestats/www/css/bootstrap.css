@@ -320,13 +320,13 @@ textarea {
 }
 
 a {
-  color: #550000;
+  color: #428bca;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #FFFFFF;
+  color: #2a6496;
   text-decoration: underline;
 }
 
@@ -822,7 +822,7 @@ pre code {
 
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+   
   }
 }
 
@@ -4787,45 +4787,45 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
-    color: #550000;
+    color: #cccccc;
     background-color: transparent;
   }
 }
 
 .navbar-default .navbar-link {
-  color: #550000;
+  color: #777777;
 }
 
 .navbar-default .navbar-link:hover {
-  color: #550000;
+  color: #333333;
 }
 
 .navbar-inverse {
-  background-color:#AFAFAF;
+  background-color: #222222;
   border-color: #080808;
 }
 
 .navbar-inverse .navbar-brand {
-
+  color: #999999;
 }
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #550000;
+  color: #ffffff;
   background-color: transparent;
 }
 
 .navbar-inverse .navbar-text {
-  color: #550000;
+  color: #999999;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-
+  color: #999999;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #550000;
+  color: #ffffff;
   background-color: transparent;
 }
 
