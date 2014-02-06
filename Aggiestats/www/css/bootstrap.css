@@ -320,7 +320,11 @@ textarea {
 }
 
 a {
+<<<<<<< HEAD
   color: #428bca;
+=======
+  color: #FFFFFF;
+>>>>>>> parent of 1e5746f... Changes in CSS
   text-decoration: none;
 }
 
@@ -4801,7 +4805,11 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse {
+<<<<<<< HEAD
   background-color: #222222;
+=======
+  background-color: #550000;
+>>>>>>> parent of 1e5746f... Changes in CSS
   border-color: #080808;
 }
 
